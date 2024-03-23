@@ -10,10 +10,18 @@
 
   <ItemGroup>
     <None Remove="Images\add.png" />
+    <None Remove="Images\logo.png" />
+    <None Remove="Images\move.png" />
   </ItemGroup>
 
   <ItemGroup>
     <Resource Include="Images\add.png" />
+    <Resource Include="Images\logo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\move.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
   </ItemGroup>
 
 </Project>
