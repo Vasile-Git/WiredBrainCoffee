@@ -24,4 +24,9 @@
     </Resource>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="Model\" />
+  </ItemGroup>
+
 </Project>
