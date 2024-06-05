@@ -1,4 +1,4 @@
-Course Summary:
+**Course Summary:**
 - Build a WPF application:
   - Create a user interface in XAML;
   - Use data binding;
@@ -15,7 +15,7 @@ Course Summary:
 
 
 
-module 2
+**module 2 - Creating your first WPF Application**
 
 - WPF is a UI framework that is part of .NET:
 	- Build desktop apps for Windows;
@@ -26,7 +26,7 @@ module 2
 	- More file are generated in obj/Debug;
 
 
-module 3 - Instantiating objects in XAML
+**module 3 - Instantiating objects in XAML**
 
 - Elements are mapped to classes:
 	- Except property element;
@@ -39,7 +39,7 @@ module 3 - Instantiating objects in XAML
 	- Collection syntax;
 
 
-module 4 - Building a User Interface
+**module 4 - Building a User Interface**
 
 - Use the WPF layout panels:
 	- Grid, StackPanel, Canvas;
@@ -49,7 +49,7 @@ module 4 - Building a User Interface
 	- C#
 
 
-module 5 - Organize code with UserControls
+**module 5 - Organize code with UserControls**
 
 -  Organize code with UserControls:
 	- Create and use a UserControl for the header;
@@ -57,7 +57,7 @@ module 5 - Organize code with UserControls
 - Understand the XAML namespaces of WPF
 
 
-module 6 - Applying Data Binding and MVVM
+**module 6 - Applying Data Binding and MVVM**
 
 - Create data bindings in XAML:
 	- Bind to another element
@@ -71,7 +71,7 @@ module 6 - Applying Data Binding and MVVM
   - Convert values with an IValueConverter
 
 
-module 7 - Execute Code with Commands
+**module 7 - Execute Code with Commands**
 
  - Understand the ICommand interface;
  - Create a DelegateCommand class;
@@ -81,7 +81,7 @@ module 7 - Execute Code with Commands
    - Raise CanExecuteChanged event
 
 
-module 8 - Creating Reusable Resources
+**module 8 - Creating Reusable Resources**
 
  - Define resources in XAML:
    - Elements have a Resources property
@@ -92,7 +92,7 @@ module 8 - Creating Reusable Resources
  - Merge multiple resources dictionaries
 
 
-module 9 - Working with Data Templates
+**module 9 - Working with Data Templates**
 
 - WPF's flexible content model
 	- ContentControl and ItemsControl;
@@ -104,7 +104,7 @@ module 9 - Working with Data Templates
 - Use data templates to load detail views
 
 
-module 10 - Setting up Dependency Injection
+**module 10 - Setting up Dependency Injection**
 
 - Register and use another type with dependency injection;
 
@@ -114,7 +114,7 @@ Summary:
 	- Microsoft.Extensions.DependencyInjection (NuGet package)
 
 
-module 11 - Styling Your Application
+**module 11 - Styling Your Application**
 
 - Work with styles in WPF
 	- Define property values with a style;
@@ -124,7 +124,7 @@ module 11 - Styling Your Application
 - Use Property Triggers in a Style;
 
 
-module 12 - Mastering Control Templates
+**module 12 - Mastering Control Templates**
 
  - User controls and custom controls:
 	- User controls are the components that you build in your application;
@@ -136,7 +136,7 @@ module 12 - Mastering Control Templates
 	- Adjust the control template;
 
 
-module 13 - Validating User Input
+**module 13 - Validating User Input**
 
  - Validate the firstname of a customer:
 	- Create a ValidationViewModelBase Class;
@@ -150,7 +150,7 @@ module 13 - Validating User Input
 	- Validation.HasError
 
 
-module 14 - Debugging Your WPF Application
+**module 14 - Debugging Your WPF Application**
 	
 - Use the XAML debugging tools
 	- Explore the Live Visual Tree
